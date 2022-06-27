@@ -1,7 +1,3 @@
 # 📚 Library Management System -Java
 
-## Result
-<p align="middle">
-   <img src="../main/images/interface.JPG" width="400"/>
-   <img src="../main/images/interface2.JPG" width="400"/>
-</p>   
+<p>This project is used to monitor books, add them, update information in it, search for the suitable one, issue it, and return it when needed. This Library Management System Project is developed in Java. </p>
