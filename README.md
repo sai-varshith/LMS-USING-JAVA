@@ -1,4 +1,4 @@
-# 📚 Library Management System -Java# 📚 Library Management System -Java
+# 📚 Library Management System -Java
 
 ## Result
 <p align="middle">
