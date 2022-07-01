@@ -3,10 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-/**
- *
- * @author prudhvi k
- */
 class JOptionpane {
 
     static void showMessageDialog(Login aThis, String logged_in) {
