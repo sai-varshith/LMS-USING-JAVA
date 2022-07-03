@@ -5,10 +5,6 @@
 
 import static org.testng.Assert.*;
 
-/**
- *
- * @author prudhvi k
- */
 public class LoginNGTest {
     
     public LoginNGTest() {
